@@ -1,25 +1,23 @@
 
 
 
-### 👋  Hola visitantes 👋
+### 👋  Hola visitantes, ¡¡Bienvenidos!! 👋
 
 ## Soy Karlos Azpeitia. kazpeiti para 42Urduliz y GranXOK para Git.
 
 ### 💻 &nbsp;¿Que os cuento sobre mi? 
 
 - 🤔 &nbsp; Estoy en una de esas vueltas que da la vida. Estudiando como cuando era "más" joven. Actualemente trabajo por cuenta ajena en algo que me permite tirar adelante
-- 🎓 &nbsp; Soy estudiante de 42Urduliz en la primera promocion nacional de la modalidad ZIP. Veremos como acaba
-
+- 🎓 &nbsp; Soy estudiante de 42Urduliz en la primera promocion nacional de la modalidad ZIP. Veremos como acaba.
 
 <br>
 
+### 💻 &nbsp;Tecnologias que estoy empezando a dominar
 
-
-
-
-
-### 💻 Tecnologias que estoy empezando a dominar
-
+<br>
+<p>
+ 
+</p>
 <br>
 
 <p  align="center">
@@ -30,11 +28,10 @@
 </p>
 
 </br>
+               
 
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
- </p>                 
-### 💻 Tecnologias que domino
+<br>
+
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
  </p> 
@@ -45,20 +42,22 @@
 
    
 <table border="0" align="center">
-  <tr border="0">
-    <td width="50%" align="center">
+<tr border="0">
+<td width="50%" align="center">
   
-      <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=GranXOK&theme=cobalt&show_icons=true&count_private=true" />
-    <br></br>
-    <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mark123jesper&theme=dark&hide_border=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=GranXOK&theme=cobalt&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=GranXOK&theme=dark&hide_border=true" />
 
-    </td>
 
-    <td width="50%" align="center">
-
-    <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=GranXOK&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
   
 </td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=GranXOk&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
 </tr>
 </table>
 
@@ -67,43 +66,13 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>  
 
-</br>
-<p align="center">
-<div align=center>
-  <a href="https://github.com/GranXOK/github-profile-trophy" title="Go to Source">
-      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=GranXOK&theme=radical&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-</p>
-
+<hr>
+<br>
+<br> 
+<hr>
 <br>
 
- <hr>
-
-
-
-
-
-
-<br>
-<p align="centre">
- 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=GranXOK&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  </p>
-
-
-
-
-
-
-
-
- <br> 
- 
- <hr>
- 
- <br>
-
-  <div align="center">
+<div align="center">
   <h3><b>😄 ¿Necesitas contarme algo? 😄</b></h3>
   </div>
 <p align="center">
@@ -138,7 +107,7 @@
 
 [Karlos Azpeitia](https://github.com/GranXOK)
 
-Last Edited on: 09/09/2021
+Last Edited on: 03/12/2023
 
 
 ------
